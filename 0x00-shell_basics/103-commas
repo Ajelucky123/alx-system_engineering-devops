@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ma plsort -d
+ls -map|sort -d
